@@ -13,6 +13,7 @@ This project was created to:
 3.Explore e-commerce trends: By uncovering customer preferences, product demands, and pricing strategies, this project delivers insights into the fast-growing e-commerce landscape.
 
 🚀 Installation & Usage
+
 **Prerequisties**
 -- Ensure that Python 3.x is installed along with the following libraries:
 pandas
