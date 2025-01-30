@@ -31,7 +31,7 @@ matplotlib
 
 **Steps to Run the Project**
 --Clone the repository:
-git clone https://github.com/yourusername/amazon-product-analysis.git  
+git clone https://github.com/annu190/amazon-product-analysis.git  
 cd amazon-product-analysis  
 
 **Add the dataset:**
