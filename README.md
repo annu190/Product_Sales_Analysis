@@ -6,10 +6,6 @@
 
 ->What are the most reviewed and highest-rated products?
 
-->How do discounts and ratings correlate with sales performance?
-
-->The analysis is enhanced by clear and visually engaging graphs to help understand trends and make data-driven decisions.
-
 💡 Why This Project?
 This project was created to:
 
@@ -34,10 +30,4 @@ matplotlib
 git clone https://github.com/annu190/amazon-product-analysis.git  
 cd amazon-product-analysis  
 
-**Add the dataset:**
---Place the amazon.csv dataset in the project directory.
-Run the analysis script:
-python analysis_script.py  
 
-**View the visualizations:**
-The script will generate and display graphs answering the key questions.
